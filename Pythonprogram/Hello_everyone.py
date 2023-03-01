@@ -12,8 +12,6 @@ print("Hello, this is Ieva P")
 print("Hello, this is Indre")
 print("Hello, this is Anete S")
 print("Hello, this is Monika Ras")
-<<<<<<< HEAD:Python program/Hello_everyone.py
-print("Hello, this is Kristine")
-=======
 print("Hello, ths is Jolanta")
->>>>>>> 68914c3d3e0634e0d2566f2b9dedcf77ba6079fe:Pythonprogram/Hello_everyone.py
+print("Hello, ths is Kristine")
+
